@@ -1,0 +1,16 @@
+
+@
+java:S55425"#Use secure mode and padding scheme.(¡şŸµ8ØŒéÃù.
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(çÕšúÿÿÿÿ8ö÷šù.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ÇÍ­ß8ö÷šù.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(›Î¬‡ûÿÿÿÿ8ö÷šù.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(”úü—øÿÿÿÿ8ö÷šù.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(›Î¬‡ûÿÿÿÿ8ö÷šù.
+@
+java:S5542X"#Use secure mode and padding scheme.(Á‹Éˆ8ö÷šù.
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(›Î¬‡ûÿÿÿÿ8ö÷šù.
+]	java:S125"<This block of commented-out lines of code should be removed.(Äïì¡øÿÿÿÿ8èíÆÃù.
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(€ñ¢”8ö÷šù.
+l
+java:S1192!"JDefine a constant instead of duplicating this literal "DECODED: " 3 times.(›Î¬‡ûÿÿÿÿ8ö÷šù.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(Ğ·Åşüÿÿÿÿ8ö÷šù.
